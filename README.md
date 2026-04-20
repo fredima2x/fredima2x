@@ -1,15 +1,19 @@
-# Welcome!
-### I'm fredima2x.
-#### Tech Stack:
-- Python (BEST)
-- HTML (ONLY html, no ccs and js)
-- Bash
-- Qt4/5/6 (PyQt, PySide, Framework Knowledge)
-- SQL (On most Servers, Sqlite)
-- Basic (C64)
+# 🚀 Tech Stack
 
-#### Skills:
-- Creating Python Backends (http API, socket, sql databases)
-- Python Fullstack Apps (excluding mobile)
-- UNIX / LINUX System Knowledge
-  
+## 💻 Languages
+Python
+Rust
+C
+
+## 🌐 Web
+HTML5
+CSS3
+
+## 🛢️ Database
+MariaDB
+
+## ⚙️ DevOps & Tools
+Linux
+Arch Linux
+Docker
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
